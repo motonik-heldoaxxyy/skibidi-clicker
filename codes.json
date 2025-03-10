@@ -1,0 +1,12 @@
+[
+    {
+        "code": "BETA",
+        "reward": "money",
+        "value": 1000000
+    },
+    {
+        "code": "TESTING",
+        "reward": "exp",
+        "value": 1000000
+    }
+]
